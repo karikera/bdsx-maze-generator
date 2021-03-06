@@ -1,0 +1,5 @@
+/.git
+!*.d.ts
+*.ts
+/render.gif
+/tsconfig.json

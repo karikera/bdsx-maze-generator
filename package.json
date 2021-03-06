@@ -1,0 +1,21 @@
+{
+  "name": "@bdsx/maze-generator",
+  "version": "1.0.2",
+  "description": "Maze generator with command lines",
+  "repository": {
+    "type": "git",
+    "directory": "https://"
+  },
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bdsxPlugin": true,
+  "devDependencies": {
+    "bdsx": "file:../bdsx/bdsx"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "progress": "^2.0.3"
+  }
+}
